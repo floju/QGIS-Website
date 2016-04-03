@@ -238,6 +238,11 @@ There is an alternative repository for QGIS 2.8.1 on Fedora 20 and Fedora 21
  sudo yum install qgis-mapserver
  # For mapserver on Fedora 21
  sudo yum install qgis-server
+ 
+Alternatively you can have a look at Fedora COPR (https://copr.fedorainfracloud.org/coprs/)
+QGIS 2.14 "Essen" for Fedora 22, 23, 24 
+https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/
+
 
 QGIS testing
 ............
